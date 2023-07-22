@@ -1,1 +1,7 @@
 Hello world
+
+git init
+git remote add origin <url>
+git add .
+git commit -m "first commit"
+git push origin master
